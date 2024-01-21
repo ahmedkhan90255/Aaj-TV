@@ -76,3 +76,16 @@
   font-size: 12px;
   font-weight: 300;
 }
+.sportnews {
+  font-family: sans-serif, serif;
+  color: green;
+  font-size: 15px;
+  font-weight: 600;
+}
+.roboto {
+  font-family: "Roboto Serif", serif;
+}
+.worldtd {
+  font-size: 14px;
+  width: min-content;
+}
