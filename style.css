@@ -88,4 +88,17 @@
 .worldtd {
   font-size: 14px;
   width: min-content;
+  align-items: ;
+}
+.verticalline {
+  display: flex;
+  width: 1px;
+  background-color: rgb(68, 70, 68);
+  height: 50vh;
+}
+.fontchange {
+  font-size: 14px;
+}
+.technology {
+  align-items: last baseline;
 }
